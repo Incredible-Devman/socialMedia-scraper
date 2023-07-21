@@ -1,0 +1,64 @@
+{
+  "keys":
+  {
+    "Facebook":
+    {
+      "access_token": ""
+    },
+
+    "LinkedIn":
+    {
+      "consumer_key": "",
+      "consumer_secret": "",
+      "code": "",
+      "access_token": ""
+    },
+
+    "Twitter":
+    {
+      "api_key": "",
+      "api_secret": "",
+      "access_token": "",
+      "access_token_secret": ""
+    },
+
+    "Instagram":
+    {
+      "username": "",
+      "password": ""
+    }
+  },
+
+  "parameters":
+  {
+    "Facebook":
+    {
+      "page_name": "",
+      "since": ""
+    },
+
+    "Instagram":
+    {
+      "username": ""
+    },
+
+    "LinkedIn":
+    {
+      "company_id": ""
+    },
+
+    "Twitter": {
+      "handle": ""
+    },
+
+    "Weibo":
+    {
+      "username": ""
+    },
+
+    "main":
+    {
+      "company_folder": ""
+    }
+  }
+}
